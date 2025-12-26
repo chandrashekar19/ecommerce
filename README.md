@@ -91,5 +91,3 @@ This project follows SOLID principles:
 - **Dependency Inversion**: Services abstracted behind interfaces
 
 ## License
-
-MIT
