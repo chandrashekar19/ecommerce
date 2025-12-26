@@ -1,6 +1,7 @@
 # E-commerce React
 
-A modern e-commerce application built with React, TypeScript, and shadcn/ui.
+A modern e-commerce application built with React, TypeScript, and shadcn/ui. This project is a simple ecommerce react js app with firebase integration.
+
 
 ## Tech Stack
 
